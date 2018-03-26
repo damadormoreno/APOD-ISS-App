@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "890243415081",
+    "firebase_url": "https://apod-iss-astrobin.firebaseio.com",
+    "project_id": "apod-iss-astrobin",
+    "storage_bucket": "apod-iss-astrobin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890243415081:android:dc02211d3dfee42b",
+        "android_client_info": {
+          "package_name": "andro.apps.deneb.astroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890243415081-qfrivpp5ihmbls66car56acbg1upmko6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "andro.apps.deneb.astroapp",
+            "certificate_hash": "9e7633a7883ae6f3f329cb96f3d355537faeb049"
+          }
+        },
+        {
+          "client_id": "890243415081-v6ee6rfe0fj6dlrub45gfknmpb8rhr0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvtDByiTM2kaOWoKxHHVTbvboEsaa0Sbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890243415081-v6ee6rfe0fj6dlrub45gfknmpb8rhr0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

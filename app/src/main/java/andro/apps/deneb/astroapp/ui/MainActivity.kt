@@ -1,5 +1,6 @@
-package andro.apps.deneb.astroapp
+package andro.apps.deneb.astroapp.ui
 
+import andro.apps.deneb.astroapp.R
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
